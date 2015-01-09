@@ -1,0 +1,11 @@
+List of references:
+websites:
+  http://www.w3schools.com/
+  https://piazza.com/class/i23vpy8h7l27la?cid=459
+  https://help.github.com
+  http://stackoverflow.com/
+  https://www.udacity.com/course/ud304
+books: N/A
+forums: N/A
+blog posts: N/A
+Github repositories: N/A
